@@ -1,0 +1,9 @@
+{
+    "name": "Vernaillen PNPM CI",
+    "description": "Vernaillen PNPM CI workflow template.",
+    "iconName": "octicon workflow",
+    "filePatterns": [
+        "package.json$",
+        "pnpm-lock.yaml$"
+    ]
+}
